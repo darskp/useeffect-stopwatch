@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useeffect-stopwatch/static/css/main.44f8b8b5.css",
+    "main.js": "/useeffect-stopwatch/static/js/main.87b699b5.js",
+    "index.html": "/useeffect-stopwatch/index.html",
+    "main.44f8b8b5.css.map": "/useeffect-stopwatch/static/css/main.44f8b8b5.css.map",
+    "main.87b699b5.js.map": "/useeffect-stopwatch/static/js/main.87b699b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.87b699b5.js"
+  ]
+}
